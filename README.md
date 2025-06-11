@@ -1,3 +1,3 @@
 # Why is the US Flag at Half-Staff Today?
 
-Ever drive by the McDonald's down the street, see the US flag flying outside the building and wonder-- why is the flag half-staff? This project allows users to input relevant information (date and location), and it will return *why* the flag is half-staff. You could look it up-- but you could also use the tool.
+Ever driven by the McDonald's down the street, seen the US flag flying outside the building and wondered-- why is the flag half-staff today? You could spend time googling and trying to find the answer, or you could input your relevant information (the data and location), and get the answer faster.
